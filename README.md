@@ -1,4 +1,4 @@
-# Exploring GPT-3<hr>
+# Exploring GPT-3
 **_An unofficial first look at the general-purpose language processing API from OpenAI_**
 
 A repo for practicing Steve Tingiris' Exploring GPT-3 book.
