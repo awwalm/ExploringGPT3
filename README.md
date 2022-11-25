@@ -20,6 +20,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 * **Steve Tingiris** - [Exploring GPT-3](https://www.packtpub.com/product/exploring-gpt-3/9781800563193)
 * **OpenAI** - [OpenAI API Documentation](https://beta.openai.com/docs)
+* **OpenAI** - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+* **Pradip Nichite** - [GPT-3 Tutorial](https://www.youtube.com/playlist?list=PLAMHV77MSKJ4QOIS86OiXMtb3-4TUUzho)
 
 ## License
 
