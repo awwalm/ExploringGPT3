@@ -11,6 +11,7 @@ After cloning the repository, you may run the programs using **PyCharm** or an I
 
 - **Python**: At the moment of writing, the source code was written with Python (3.8).
 - **OpenAI API access**: You can save your API keys elsewhere that suits your security concerns - this codebase uses environment variables.
+- **Misc**: numpy, scipy, pandas, plotly, sklearn, matplotlib
 
 ## Contributing
 
