@@ -20,7 +20,6 @@ then their vector representations should also be similar.
 import os
 import numpy as np
 import openai
-import pandas as pd
 
 # API key
 openai.api_key = os.environ["OPENAI_API_KEY"]
@@ -48,9 +47,4 @@ print(np.dot(embedding_a, embedding_b))   # eating food vs I am hungry
 print(np.dot(embedding_a, embedding_c))   # eating food vs I am traveling
 print(np.dot(embedding_c, embedding_d))   # I am traveling vs exploring new places
 
-
-# https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
-# Precomputed embeddings
-datafile_path = "https://cdn.openai.com/API/examples/data/fine_food_reviews_with_embeddings_1k.csv"
-df = pd.read_csv(datafile_path)
-df.head()
+# @TODO: CONVERT TO MODULE CONTAINING `Similarity` AND `SemanticSearch` CLASSES
