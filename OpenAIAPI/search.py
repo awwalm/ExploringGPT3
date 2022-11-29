@@ -33,4 +33,5 @@ dot_products = [
     np.dot(embeddings[query], embeddings[documents[n]]) for n in range(len(documents)-1)
 ]
 
+print(json.dumps(result.json(), indent=2))
 print(f"{query} is most similar to {documents[dot_products.index(max(dot_products))]}")
