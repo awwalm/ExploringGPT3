@@ -19,7 +19,7 @@ headers = {
 # Data to be sent to the server
 data = json.dumps({
     "model": "text-moderation-latest",
-    "input": "Ah shit here we go again"
+    "input": "Fuck that shit"
 })
 
 # print results

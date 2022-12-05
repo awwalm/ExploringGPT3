@@ -1,7 +1,6 @@
 import os
 import requests
 import json
-import numpy as np
 
 # API key
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
@@ -17,7 +16,7 @@ headers = {
 
 # Data to be sent to the server
 data = json.dumps({
-    "prompt": "<|endoftext|>Ah shit, here we go again\n--\nLabel:",
+    "prompt": "<|endoftext|>Fuck that shit\n--\nLabel:",
     "max_tokens": 1,
     "temperature": 0.0,
     "top_p": 0
