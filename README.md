@@ -1,5 +1,9 @@
 # Exploring GPT-3
-**_An unofficial first look at the general-purpose language processing API from OpenAI_**
+An unofficial first look at the general-purpose language processing API from OpenAI
+
+<hr>
+<strong>This repo has been archived and no longer being updated</strong>
+<hr>
 
 A repo for practicing Steve Tingiris' Exploring GPT-3 book.
 
